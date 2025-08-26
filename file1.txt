@@ -1,4 +1,3 @@
 Hello World
 Second line
 Second line again
-Third line
